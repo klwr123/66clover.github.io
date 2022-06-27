@@ -1,5 +1,6 @@
 baseurl = "https://example.com/"
-languageCode = "en-us"
+languageCode = "zh-Hans"
+title = "This is my Hugo Blog."
 theme = "hugo-theme-terminal"
 paginate = 5
 
